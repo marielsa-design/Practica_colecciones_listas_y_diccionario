@@ -1,0 +1,1 @@
+# 15. Dada una lista de ventas (diccionarios con producto y monto), calcular el total vendido por cada producto.

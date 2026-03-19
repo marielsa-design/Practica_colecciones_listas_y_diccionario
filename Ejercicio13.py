@@ -1,0 +1,1 @@
+# 13. Dada una lista de números, crear un diccionario donde la clave sea el número y el valor sea su cuadrado.
